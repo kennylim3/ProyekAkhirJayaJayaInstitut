@@ -15,7 +15,9 @@ Sumber data: https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/
 
 Setup environment:
 ```
-
+pipenv install
+pipenv shell
+pip install pandas matplotlib seaborn sqlalchemy scikit-learn joblib numpy streamlit
 ```
 
 ## Business Dashboard
